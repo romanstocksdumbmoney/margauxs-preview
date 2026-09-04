@@ -8,17 +8,17 @@
 
 ## Cold email (no Stripe)
 
-**Subject:** Free redesign sample for Margaux's (Creedmoor Rd)
+**Subject:** Quick redesign sample for Margaux's (Raleigh)
 
-Hi Steve, Andrew, and the Margaux's team —
+Hi Margaux's team —
 
 I'm Roman with Roman Sites, a small Raleigh shop that rebuilds restaurant websites into clean, mobile-friendly previews.
 
-I put together a sample rebuild of Margaux's using your real copy — the 1992 story, Chef Andrew Pettifer's French/Southern/Asian fusion, Monday Mayhem & Early Byrd prix-fixe, Bordeaux / Rotisserie / Sunday buyouts, OpenTable reserve, live iMenuPro dinner menu, to-go note, and your Creedmoor hours — so guests can find the table on a phone without the ThemeForest Total / keyword-stuffed title clutter:
+I put together a free sample redesign of Margaux's with your OpenTable, menu, and phone links working:
 
 [View the redesign](https://romanstocksdumbmoney.github.io/margauxs-preview/)
 
-The preview is free to look at. If you like it and want it live on margauxsrestaurant.com, the flat handoff fee is **$900**. Local rebuild quotes for similar restaurant sites often run **$3,500–$5,000**. No pressure either way — happy to tweak the sample if anything feels off.
+The preview is free to look at. If you like it and want it live on margauxsrestaurant.com, the flat handoff fee is **$700** (local rebuild quotes for similar work often run $3,000–$5,000). No pressure either way — happy to tweak the sample if anything feels off.
 
 Roman  
 Roman Sites  
@@ -29,9 +29,8 @@ romansites365@gmail.com
 
 ## Notes
 
-- Cold email only — **no** Stripe / payment link.
-- Specific to THEIR site: ThemeForest Total theme, keyword-stuffed title, Divi traces, OpenTable + iMenuPro, private rooms, Creedmoor Rd.
-- CTA phrase: **View the redesign**
-- Offer: **$900** vs market **$3,500–$5,000**
-- Preview URL: https://romanstocksdumbmoney.github.io/margauxs-preview/
-- **Do not send** until Dominic approves (sites-only wave).
+- Cold email only — **no** Stripe.
+- Short Glenwood-style letter.
+- CTA: **View the redesign** (hyperlinked — never bare URL).
+- Offer: **$700** vs market **$3,000–$5,000**
+- Do not send until Dominic says go.
