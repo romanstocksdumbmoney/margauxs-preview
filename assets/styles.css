@@ -410,3 +410,23 @@ button { font: inherit; border: 0; background: none; cursor: pointer; color: inh
   .purveyor-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .footer-inner { grid-template-columns: 1.3fr 1fr; }
 }
+
+/* Mobile header: keep Call + menu, hide Reserve to prevent brand overlap */
+@media (max-width: 979px) {
+  .nav-ctas .btn-secondary { display: none !important; }
+  .brand-text { display: none; }
+  .nav-ctas .btn-primary { padding: .65rem .95rem; font-size: .82rem; }
+  .brand img { width: 44px; height: auto; max-height: 44px; }
+}
+
+.call-short{display:none}
+@media (max-width:979px){
+  .call-full{display:none}
+  .call-short{display:inline}
+}
+
+
+/* margaux mobile logo */
+@media (max-width:979px){
+  .brand img{width:118px !important; height:auto !important; max-height:40px !important;}
+}
